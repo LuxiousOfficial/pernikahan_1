@@ -285,6 +285,7 @@ body {
 
 .gallery .gambar .container .button1 a:hover {
 	background-color: black;
+	color: white;
 }
 
 .gallery .gambar .container .button1 .prev1 {
@@ -516,6 +517,7 @@ body {
 
 .bride .container1 .button2 a:hover {
 	background-color: black;
+	color: white;
 }
 
 .bride .container1 .button2 .prev2 {
@@ -693,6 +695,7 @@ body {
 
 .bride-woman .container3 .button3 a:hover {
 	background-color: black;
+	color: white;
 }
 
 .bride-woman .container3 .button3 .prev3 {
@@ -886,6 +889,7 @@ body {
 	font-weight: bold;
 	background-color: white;
 	width: 100%;
+	padding: 1rem;
 }
 
 .memory .container4 {
@@ -937,6 +941,7 @@ body {
 
 .memory .container4 .button4 a:hover {
 	background-color: black;
+	color: white;
 }
 
 .memory .container4 .button4 .prev4 {
