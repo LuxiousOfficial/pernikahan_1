@@ -1754,14 +1754,29 @@ footer .creadit p {
 		height: 25rem;
 	}
 
-	.gift .star {
-		width: 35rem;
+	.gift .bni {
+		width: 30rem;
 	}
 
-	.gift .star img {
+	.gift .bni img {
 		width: 20rem;
 	}
 
+	.gift .bri {
+		width: 30rem;
+	}
+
+	.gift .bri img {
+		width: 20rem;
+	}
+
+	.gift .bca {
+		width: 30rem;
+	}
+
+	.gift .bca img {
+		width: 20rem;
+	}
 
 	footer .socialmedia a {
 		font-size:  2.5rem;
